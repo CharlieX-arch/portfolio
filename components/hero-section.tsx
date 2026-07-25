@@ -73,7 +73,7 @@ export function HeroSection() {
           <div className="flex-shrink-0 order-1 md:order-2">
             <div className="profile-ring rounded-full p-2 relative">
               <img 
-                src="/profile-photo.jpeg" 
+                src="/profile-photo.png" 
                 alt="Vishw Bhatt" 
                 className="w-48 h-48 md:w-64 md:h-64 rounded-full object-cover relative z-10"
               />
