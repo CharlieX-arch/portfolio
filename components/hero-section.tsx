@@ -64,7 +64,7 @@ export function HeroSection() {
             </div>
             
             <p className="max-w-[600px] text-lg text-muted-foreground leading-relaxed">
-              Offensive security specialist who finds what others miss. I run black-box penetration tests on live applications — hunting real vulnerabilities, not just checking boxes.
+              Executing advanced black-box penetration tests on live applications to expose hidden vulnerabilities. Moving beyond basic compliance to deliver real-world, actionable security insights.
             </p>
             
             <div className="pt-4" />
