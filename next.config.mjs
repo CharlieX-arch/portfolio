@@ -1,28 +1,14 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: 'export',
   typescript: {
     ignoreBuildErrors: true,
   },
   images: {
     unoptimized: true,
+    formats: ['image/webp'],
   },
-  async headers() {
-    return [
-      {
-        source: "/(.*)",
-        headers: [
-          {
-            key: "X-Frame-Options",
-            value: "SAMEORIGIN",
-          },
-          {
-            key: "Content-Security-Policy",
-            value: "frame-ancestors 'self';",
-          },
-        ],
-      },
-    ]
-  },
+  trailingSlash: true,
 }
 
 export default nextConfig
