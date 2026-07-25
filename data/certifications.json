@@ -1,0 +1,37 @@
+[
+  {
+    "name": "CAPen (Certified Application Penetration Tester)",
+    "issuer": "SecOps Group",
+    "date": "June 2026",
+    "status": "Active",
+    "verificationUrl": "https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXVxgwWuNmfzrrTTRUiOaJ3u+cpSNQpsYspQlzL3eOQqOffKfZ/x0ggSDMh5KDgTnDYvaTep4j10tRWTdnObD1R4="
+  },
+  {
+    "name": "Web Red Team Analyst (Web-RTA)",
+    "issuer": "CyberWarFare Labs",
+    "date": "June 2026",
+    "status": "Active",
+    "verificationUrl": "https://labs.cyberwarfare.live/credential/achievement/6a2705220a96d50ef30da6c0"
+  },
+  {
+    "name": "C3SA Premium Edition",
+    "issuer": "CyberWarFare Labs",
+    "date": "Jun 2025",
+    "status": "Active",
+    "verificationUrl": "https://labs.cyberwarfare.live/credential/achievement/6a3254d0d6ff7f25251a7acf"
+  },
+  {
+    "name": "API Red Team Analyst (API-RTA)",
+    "issuer": "CyberWarFare Labs",
+    "date": "On-going",
+    "status": "On-going",
+    "verificationUrl": ""
+  },
+  {
+    "name": "CEHv12 Master",
+    "issuer": "Cisco Networking Academy",
+    "date": "On-going",
+    "status": "On-going",
+    "verificationUrl": ""
+  }
+]
